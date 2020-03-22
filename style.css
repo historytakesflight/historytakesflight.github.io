@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+}
+
+.background {
+    /* Photo by Pascal Meier on Unsplash */
+    background-image: url("https://github.com/historytakesflight/historytakesflight.github.io/blob/master/images/pascal-meier-UYiesSO4FiM-unsplash%20(1).jpg?raw=true");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    position: relative;
+}
