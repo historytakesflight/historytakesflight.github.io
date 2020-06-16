@@ -4,16 +4,21 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Exploring the history of Aviation through the ages">
+        <meta name="keywords" content="Flight,Aviation,Airplanes,History">
+        <meta name="author" content="John Yang">
+        <link rel="stylesheet" href="cursors.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link rel="stylesheet" href="style.css">
         <title>History Takes Flight | Exploring Aviation</title>
         <link rel="icon" href="https://github.com/historytakesflight/historytakesflight.github.io/blob/master/images/icons8-paper-plane-100.png?raw=true">
+        <script src="utilities.js"></script>
     </head>
 
     <body>
         <nav class="navbar fixed-top navbar-dark bg-dark navbar-expand-md">
             <a class="navbar-brand" href="/index.html"><img height="40px" src="https://github.com/historytakesflight/historytakesflight.github.io/blob/master/images/icons8-paper-plane-100.png?raw=true"></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
@@ -38,20 +43,43 @@
                 </form>
             </div>
         </nav>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
         <main role="main">
-            <div class="background">
-                <div style="min-height:100vh;">
-                    <div class="container text-center">
-                        <br><br><br><br>
-                        <h1 class="display-2 text-dark bg-transparent text-center">aviation history</h1>
-                        <h4 class="text-dark bg-transparent text-center">exploring the dream of flight</h4>
-                        <div class="btn-group" role="group">
-                            <button type="button" class="btn btn-light"><a href="/landing.html">Read More</a></button>
-                        </div><br><br>
-                    </div>
+            <section id="background-1" class="text-right pr-4" style="min-height: 100vh;">
+                <br><br><br><br>
+                <h1 class="display-2 text-dark bg-transparent text-right">aviation history</h1>
+                <h4 class="text-dark bg-transparent text-right">exploring the dream of flight</h4>
+                <p><a href="#background-2" class="link-no-color"><svg class="bi bi-chevron-down" width="3.5em" height="3.5em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+                </svg></a></p>
+            </section>
+            <div class="container-fluid">
+                <div class="row">
+                        <section class="col-md-6 text-left pl-4 pt-2" id="background-2" style="min-height:100vh;width:50%;">
+                            <br><br><br>
+                            <h1 class="display-2 text-light bg-transparent text-left">articles</h1>
+                            <p class="text-light text-left">Read about aviation and flight - how it started, its progression throughout times of war and peace, and where it is today. <br>Click below to begin!</p>
+                            <p class="text-light"><a href="/landing.html" class="link-no-color"><svg class="bi bi-box-arrow-in-right" width="2.75em" height="2.75em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" d="M8.146 11.354a.5.5 0 0 1 0-.708L10.793 8 8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0z"/>
+                                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9A.5.5 0 0 1 1 8z"/>
+                                <path fill-rule="evenodd" d="M13.5 14.5A1.5 1.5 0 0 0 15 13V3a1.5 1.5 0 0 0-1.5-1.5h-8A1.5 1.5 0 0 0 4 3v1.5a.5.5 0 0 0 1 0V3a.5.5 0 0 1 .5-.5h8a.5.5 0 0 1 .5.5v10a.5.5 0 0 1-.5.5h-8A.5.5 0 0 1 5 13v-1.5a.5.5 0 0 0-1 0V13a1.5 1.5 0 0 0 1.5 1.5h8z"/>
+                            </svg></a></p>
+                        </section>
+                        <section class="col-md-6 text-right pl-4 pt-2" id="background-3" style="min-height:100vh;width:50%;">
+                            <br><br><br>
+                            <h1 class="display-2 text-dark bg-transparent text-right">about this project</h1>
+                        </section>
                 </div>
             </div>
         </main>
+
+        <footer class="m-4">
+            <span class="pb-4 float-sm-left">&copy; John Yang 2020 |
+                <a href="https://github.com/historytakesflight/historytakesflight.github.io/blob/master/credits.md">Image Credits</a> | <a href="https://github.com/CookiePie1">GitHub</a> | <a href="#">Back to top</a> </span>
+            <span class="pb-4 float-sm-right">Created using GitHub Pages and Bootstrap</span>
+        </footer>
+
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
