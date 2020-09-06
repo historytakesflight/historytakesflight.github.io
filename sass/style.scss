@@ -1,0 +1,10 @@
+@use 'global';
+
+.jumbotron {
+  background-image: url("/images/rusty-watson.jpg");
+  background-position-x: center;
+  background-position-y: 40%;
+}
+.bg-grey {
+  background-color: #bfbfbf;
+}
