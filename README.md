@@ -1,7 +1,8 @@
 # historytakesflight.github.io
 
-John Yang's Independent Study for the 2021 School Year
+A blog-style aviation history website. 
 
-## Currently, this website is under construction. 
+### Welcome!
+You've found the github repository for this website. If you were looking for the actual website, click [here](https://historytakesflight.github.io/). 
 
-New articles will be added throughout the year once school starts in September 2020. 
+It's the beginning of the 2020-21 school year! I will be adding new articles as the year continues, so check back here in about a week to see the first article!
