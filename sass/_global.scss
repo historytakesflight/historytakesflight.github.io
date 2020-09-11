@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+// bootstrap colors and breakpoints
+$primary: #007bff;
+$secondary: #6c757d;
+$success: #28a745;
+$info: #17a2b8;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: #f8f9fa;
+$dark: #343a40;
+$breakpoint-xs: 0;
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+body,html{
+  cursor: url("/images/cursor.gif"),url("/images/cursor.cur"),default;
+  scroll-behavior: smooth;
+}
+body {
+  position: relative;
+}
+*::-webkit-scrollbar-track
+{
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  background-color: #F5F5F5;
+}
+*::-webkit-scrollbar
+{
+  width: 6px;
+  background-color: #F5F5F5;
+}
+*::-webkit-scrollbar-thumb
+{
+  background-color: #000000;
+}
+main {
+  min-height: 100vh;
+}
+.vr {
+  border-left: 1px solid $dark;
+  height: 200%;
+}
+.nav {
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .active {
+    font-weight: 500;
+  }
+}
+.header-title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+.header {
+  line-height: 1;
+  border-bottom: 1px solid $dark;
+}
+.footer {
+  background-color: white;
+}
+.link-no-color {
+  color: inherit;
+  text-decoration: none;
+  :hover {
+    color: $primary;
+  }
+}
+.show-md {
+  display: none;
+}
+@media only screen and (min-width: $breakpoint-md) {
+  .show-mobile {
+    display: none;
+  }
+  .show-md {
+    display: block;
+  }
+}
+.background {
+  background-image: url("/images/dominik-schroder.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
