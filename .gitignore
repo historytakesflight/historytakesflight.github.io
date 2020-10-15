@@ -1,5 +1,8 @@
 # IDE
-.idea
+.vscode
 
 # templates
 templates/
+
+# other
+checklists.txt

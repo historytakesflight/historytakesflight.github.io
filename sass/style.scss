@@ -1,10 +1,23 @@
 @use 'global';
 
-.jumbotron {
-  background-image: url("/images/rusty-watson.jpg");
+.jumbotron-background {
+  background-image: url("/images/cayley.jpg");
   background-position-x: center;
   background-position-y: 40%;
 }
+.jumbotron-layer {
+  background-color: rgba(114, 181, 212, 0.7);
+}
 .bg-grey {
   background-color: #bfbfbf;
+}
+#feature-image-1 {
+  background-image: url("images/balloon.jpg");
+  background-position: center;
+  background-size: cover;
+}
+#feature-image-2 {
+  background-image: url("images/screw.jpg");
+  background-position: center;
+  background-size: cover;
 }

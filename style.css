@@ -10,6 +10,7 @@ body {
 
 *::-webkit-scrollbar-track {
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
   background-color: #F5F5F5;
 }
 
@@ -83,14 +84,30 @@ main {
   background-size: cover;
 }
 
-.jumbotron {
-  background-image: url("/images/rusty-watson.jpg");
+.jumbotron-background {
+  background-image: url("/images/cayley.jpg");
   background-position-x: center;
   background-position-y: 40%;
 }
 
+.jumbotron-layer {
+  background-color: rgba(114, 181, 212, 0.7);
+}
+
 .bg-grey {
   background-color: #bfbfbf;
+}
+
+#feature-image-1 {
+  background-image: url("images/balloon.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#feature-image-2 {
+  background-image: url("images/screw.jpg");
+  background-position: center;
+  background-size: cover;
 }
 
 /*# sourceMappingURL=style.css.map */
