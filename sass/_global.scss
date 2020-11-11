@@ -8,6 +8,7 @@ $warning: #ffc107;
 $danger: #dc3545;
 $light: #f8f9fa;
 $dark: #343a40;
+$purple: #5405e7;
 $breakpoint-xs: 0;
 $breakpoint-sm: 576px;
 $breakpoint-md: 768px;
@@ -108,4 +109,7 @@ main {
 .ellipsis {
   overflow: hidden;
   text-overflow: ellipsis;
+}
+.text-purple {
+  color: $purple;
 }

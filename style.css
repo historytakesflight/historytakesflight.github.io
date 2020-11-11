@@ -107,6 +107,10 @@ main {
   text-overflow: ellipsis;
 }
 
+.text-purple {
+  color: #5405e7;
+}
+
 .jumbotron-background {
   background-image: url("/images/cayley.jpg");
   background-position-x: center;
