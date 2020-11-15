@@ -1,16 +1,15 @@
 # historytakesflight.github.io
 
-A blog-style aviation history website. 
-
 ### Welcome!
 You've found the github repository for this website. If you were looking for the actual website, click [here](https://historytakesflight.github.io/). 
 
 Coming soon:
-* Early Commerical Aviation
-* Aviation during the Civil War
+* Military Aviation
 
 Latest Articles:
-* [Flying long](https://historytakesflight.github.io/beginnings/longer-distances.html) - 28 October 2020
+* [Opinion | What would a Biden Presidency mean for the aviation industry?](https://historytakesflight.github.io/opinion/biden-aviation-industry.html)
+* [The Beginnings of Commercial Aviation](https://historytakesflight.github.io/beginnings/beginnings-of-commercial-aviation.html)
+* [Proofs of Concept: Longer Distances in Flight](https://historytakesflight.github.io/beginnings/longer-distances.html) - 28 October 2020
 * [Opinion | Do the Wright brothers deserve all the credit they receive?](https://historytakesflight.github.io/beginnings/wright-brothers-credit.html) - 26 October 2020
 * [The Wright Brothers' Influences and Inspirations](https://historytakesflight.github.io/beginnings/wright-brothers-influences.html) - 25 October 2020
 * [Further Developments in Aviation During the 19th Century](https://historytakesflight.github.io/beginnings/nineteenth-century.html) - 4 October 2020

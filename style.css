@@ -136,13 +136,29 @@ main {
 }
 
 #feature-image-1 {
+  /* balloons */
   background-image: url("images/balloon.jpg");
   background-position: center;
   background-size: cover;
 }
 
 #feature-image-2 {
-  background-image: url("images/screw.jpg");
+  /* longer distances */
+  background-image: url("images/vimy.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#feature-image-3 {
+  /* beginnings of commercial */
+  background-image: url("/images/jenny.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#feature-image-4 {
+  /* wright brothers influences */
+  background-image: url("/beginnings/images/first-flight.jpg");
   background-position: center;
   background-size: cover;
 }

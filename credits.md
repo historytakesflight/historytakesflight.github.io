@@ -7,3 +7,7 @@
 * George Cayley feature - Public Domain. Cayley's own drawing of his glider. 
 * Balloons feature - Photo by <a href="https://unsplash.com/@neonbrand?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">NeONBRAND</a> on <a href="https://unsplash.com/s/photos/hot-air-balloon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 * Earliest Forms of Aviation feature - Public Domain. Da Vinci's own drawing of his Aerial Screw. 
+* Joe Biden and the aviation industry feature - Photo by <a href="https://unsplash.com/@janrosolino?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jan Rosolino</a> on <a href="https://unsplash.com/@janrosolino?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+* Beginnings of Commercial Aviation feature - Curtiss JN-4H Jenny. Public Domain
+* Wright Brothers feature - Image via Library of Congress; The Wright Brothers' first manned powered heavier-than-air flight. 
+* Longer distances in flight feature - Vickers Vimy, the plane Alcock and Brown used to cross the Atlantic. Public Domain. 
