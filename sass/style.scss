@@ -5,6 +5,14 @@
   background-position-x: center;
   background-position-y: 40%;
 }
+#jumbotron-biden {
+  background-image: url("/images/jan-rosolino.jpg");
+  background-position: center;
+  background-size: cover;
+}
+#biden-jumbotron-layer {
+  background-color: rgba(240, 185, 133, 0.7);
+}
 .jumbotron-layer {
   background-color: rgba(114, 181, 212, 0.7);
 }
