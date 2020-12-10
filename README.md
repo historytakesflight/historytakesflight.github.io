@@ -1,7 +1,7 @@
 # historytakesflight.github.io
 
 ### Welcome!
-You've found the github repository for this website. If you were looking for the actual website, click [here](https://historytakesflight.github.io/). 
+You've found the github repository for this website. If you were looking for the actual website, click <a href="https://historytakesflight.github.io/" target="_blank">here</a>. 
 
 Coming soon:
 * Aviation during the First World War
