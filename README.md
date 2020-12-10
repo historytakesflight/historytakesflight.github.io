@@ -7,9 +7,9 @@ Coming soon:
 * Aviation during the First World War
 
 Latest Articles:
-* [How aviation first entered the military scene](https://historytakesflight.github.io/military/first-uses-of-aviation)
-* [Opinion | What would a Biden Presidency mean for the aviation industry?](https://historytakesflight.github.io/opinion/biden-aviation-industry)
-* [The Beginnings of Commercial Aviation](https://historytakesflight.github.io/beginnings/beginnings-of-commercial-aviation)
+* [How aviation first entered the military scene](https://historytakesflight.github.io/military/first-uses-of-aviation) - 6 December 2020
+* [Opinion | What would a Biden Presidency mean for the aviation industry?](https://historytakesflight.github.io/opinion/biden-aviation-industry) - 15 November 2020
+* [The Beginnings of Commercial Aviation](https://historytakesflight.github.io/beginnings/beginnings-of-commercial-aviation) - 10 November 2020
 * [Proofs of Concept: Longer Distances in Flight](https://historytakesflight.github.io/beginnings/longer-distances) - 28 October 2020
 * [Opinion | Do the Wright brothers deserve all the credit they receive?](https://historytakesflight.github.io/beginnings/wright-brothers-credit) - 26 October 2020
 * [The Wright Brothers' Influences and Inspirations](https://historytakesflight.github.io/beginnings/wright-brothers-influences) - 25 October 2020
