@@ -111,6 +111,11 @@ main {
   color: #5405e7;
 }
 
+.img-fluid {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .jumbotron-background {
   background-image: url("/images/cayley.jpg");
   background-position-x: center;
