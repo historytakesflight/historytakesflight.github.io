@@ -6,3 +6,8 @@ templates/
 
 # other
 checklists.txt
+
+# sass compilation files
+.sass-cache/
+*.scssc
+
