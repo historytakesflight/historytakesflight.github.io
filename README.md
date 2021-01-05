@@ -4,9 +4,10 @@
 You've found the github repository for this website. If you were looking for the actual website, click <a href="https://historytakesflight.github.io/" target="_blank">here</a>. 
 
 Coming soon:
-* Aviation during the First World War
+* The B-29 Superfortress
 
 Latest Articles:
+* [Aviation during the First World War - irrelevant or critical factor?](https://historytakesflight.github.io/military/first-world-wor) - 15 December 2020
 * [How aviation first entered the military scene](https://historytakesflight.github.io/military/first-uses-of-aviation) - 6 December 2020
 * [Opinion | What would a Biden Presidency mean for the aviation industry?](https://historytakesflight.github.io/opinion/biden-aviation-industry) - 15 November 2020
 * [The Beginnings of Commercial Aviation](https://historytakesflight.github.io/beginnings/beginnings-of-commercial-aviation) - 10 November 2020
