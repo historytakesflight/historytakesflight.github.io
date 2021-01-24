@@ -11,3 +11,6 @@
 * Beginnings of Commercial Aviation feature - Curtiss JN-4H Jenny. Public Domain
 * Wright Brothers feature - Image via Library of Congress; The Wright Brothers' first manned powered heavier-than-air flight. 
 * Longer distances in flight feature - Vickers Vimy, the plane Alcock and Brown used to cross the Atlantic. Public Domain. 
+* Cold War Reconnaissance Aircraft feature - <span>Photo by <a href="https://unsplash.com/@lanceanderson?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lance Anderson</a> on <a href="https://unsplash.com/s/photos/sr-71?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+* B-29 feature - B-29 inflight, side view, US National Archives.
+* First World War feature - Fokker Dr.I, Public domain. 

@@ -7,6 +7,7 @@ Coming soon:
 * Modern Military Aircraft
 
 Latest Articles:
+* [Reconnaissance aircraft through the Cold War](https://historytakesflight.github.io/military/cold-war) - 24 January 2021
 * [What made the B-29 Superfortress such an important aircraft during World War II?](https://historytakesflight.github.io/military/superfortress)
 * [Aviation during the First World War - irrelevant or critical factor?](https://historytakesflight.github.io/military/first-world-wor) - 15 December 2020
 * [How aviation first entered the military scene](https://historytakesflight.github.io/military/first-uses-of-aviation) - 6 December 2020

@@ -128,6 +128,16 @@ main {
   background-size: cover;
 }
 
+#jumbotron-cold-war {
+  background-image: url("/images/lance-anderson.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#cold-war-jumbotron-layer {
+  background-color: rgba(0, 0, 0, 0);
+}
+
 #biden-jumbotron-layer {
   background-color: rgba(240, 185, 133, 0.7);
 }
@@ -165,6 +175,20 @@ main {
   /* wright brothers influences */
   background-image: url("/beginnings/images/first-flight.jpg");
   background-position: center;
+  background-size: cover;
+}
+
+#feature-image-5 {
+  /*B-29*/
+  background-image: url("/military/images/b-29.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#feature-image-6 {
+  /*dr.I*/
+  background-image: url("/military/images/fokker-dr-i.jpg");
+  background-position: left;
   background-size: cover;
 }
 
