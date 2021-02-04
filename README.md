@@ -4,9 +4,10 @@
 You've found the github repository for this website. If you were looking for the actual website, click <a href="https://historytakesflight.github.io/" target="_blank">here</a>. 
 
 Coming soon:
-* Modern Military Aircraft
+* Civil and Commercial Aviation
 
 Latest Articles:
+* [Opinion | The F-35 program is a dumpster fire](https://historytakesflight.github.io/opinion/f-35) - 3 February 2021
 * [Reconnaissance aircraft through the Cold War](https://historytakesflight.github.io/military/cold-war) - 24 January 2021
 * [What made the B-29 Superfortress such an important aircraft during World War II?](https://historytakesflight.github.io/military/superfortress)
 * [Aviation during the First World War - irrelevant or critical factor?](https://historytakesflight.github.io/military/first-world-wor) - 15 December 2020
