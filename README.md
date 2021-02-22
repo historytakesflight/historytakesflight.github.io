@@ -4,7 +4,7 @@
 You've found the github repository for this website. If you were looking for the actual website, click <a href="https://historytakesflight.github.io/" target="_blank">here</a>. 
 
 Latest Articles:
-<!---* [How the TWA Terminal at JFK represents an entire era of air travel](https://historytakesflight.github.io/commercial/twa-terminal) - 21 February 2021-->
+* [How the TWA Terminal at JFK represents an entire era of air travel](https://historytakesflight.github.io/commercial/twa-terminal) - 21 February 2021
 * [Opinion | The F-35 program is a dumpster fire](https://historytakesflight.github.io/opinion/f-35) - 3 February 2021
 * [Reconnaissance aircraft through the Cold War](https://historytakesflight.github.io/military/cold-war) - 24 January 2021
 * [What made the B-29 Superfortress such an important aircraft during World War II?](https://historytakesflight.github.io/military/superfortress)
