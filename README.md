@@ -4,6 +4,7 @@
 You've found the github repository for this website. If you were looking for the actual website, click <a href="https://historytakesflight.github.io/" target="_blank">here</a>. 
 
 Latest Articles:
+* [Southwest Airlines and the low-cost carrier boom](https://historytakesflight.github.io/commercial/lcc)
 * [Why the Tupolev 144 failed]("https://historytakesflight.github.io/commercial/tu-144")
 * [The history of ICAO](https://historytakesflight.github.io/commercial/icao) - 24 February 2021
 * [How the TWA Terminal at JFK represents an entire era of air travel](https://historytakesflight.github.io/commercial/twa-terminal) - 21 February 2021
