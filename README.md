@@ -4,6 +4,8 @@
 You've found the github repository for this website. If you were looking for the actual website, click <a href="https://historytakesflight.github.io/" target="_blank">here</a>. 
 
 Latest Articles:
+* [The infamous story of Meigs Field, Chicago](https://historytakesflight.github.io/commercial/meigs-field) - 31 March 2021 
+* [A flying guide for nervous travelers](https://historytakesflight.github.io/safety/nervous-flyers) - 30 March 2021
 * [Environmental impacts of the aviation industry]("https://historytakesflight.github.io/commercial/environment") - 27 March 2021
 * [Southwest Airlines and the low-cost carrier boom](https://historytakesflight.github.io/commercial/lcc) - 23 March 2021
 * [Why the Tupolev 144 failed]("https://historytakesflight.github.io/commercial/tu-144") - 17 March 2021
