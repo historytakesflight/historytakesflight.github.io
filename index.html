@@ -69,11 +69,20 @@
     </div>
     <main role="main" class="container">
         <div class="alert alert-danger alert-dismissible fade show" role="alert">
-            <strong>We're in this together. </strong> Get your COVID-19 vaccine when it's your turn. <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html">Learn More</a>
+            <strong>We're in this together. </strong> Get your COVID-19 vaccine when it's your turn. <a onclick="return confirm('The link you\'ve clicked leads to an external website. Would you like to proceed?')" href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html">Learn More</a>
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
+          <div class="rounded-lg" id="jumbotron-nervous-flyers">
+            <div class="jumbotron shadow rounded-lg" id="nervous-flyers-jumbotron-layer">
+                <h1 class="display-4">A flying guide for nervous travelers</h1>
+                <p class="lead">Flying is one of the safest forms of transportation out there - there's no reason to be scared. </p>
+                <hr class="my-4">
+                <p class="">Whether it's your first time or your fiftieth time, getting on an airplane can understandably make you nervous. By examining the [...]</p>
+                <a href="./safety/nervous-flyers" class="btn btn-light btn-lg" role="button">Read More</a>
+            </div>
+        </div>
         <div class="rounded-lg" id="jumbotron-cold-war">
             <div class="jumbotron shadow rounded-lg" id="cold-war-jumbotron-layer">
                 <h1 class="display-4 text-light">Reconnaissance Aircraft Through the Cold War</h1>
@@ -220,8 +229,8 @@
 <div class="footer container float-center">
     <footer class="m-4 footer">
             <span class="pb-4 float-left">&copy; John Yang 2021 |
-                <a href="https://github.com/historytakesflight/historytakesflight.github.io/blob/master/credits.md" target="_blank">Image Credits</a> | <a href="#">Back to top</a><br></span>
-        <span class="pb-4 float-right">All content <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> unless otherwise noted.</span><br>
+                <a href="https://github.com/historytakesflight/historytakesflight.github.io/blob/master/credits.md" target="_blank" onclick="return confirm('The link you\'ve clicked leads to an external website. Would you like to proceed?')">Image Credits</a> | <a href="#">Back to top</a><br></span>
+        <span class="pb-4 float-right">All content <a href="https://creativecommons.org/licenses/by-sa/4.0/" onclick="return confirm('The link you\'ve clicked leads to an external website. Would you like to proceed?')">CC BY-SA 4.0</a> unless otherwise noted.</span><br>
     </footer>
 </div>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

@@ -15,7 +15,16 @@
   background-position: center;
   background-size: cover;
 }
+#jumbotron-nervous-flyers {
+  background-image: url("/images/wingview.jpg");
+  background-position-x: center;
+  background-position-y: 60%;
+  background-size: cover;
+}
 #cold-war-jumbotron-layer {
+  background-color: rgba(0,0,0, 0.0);
+}
+#nervous-flyers-jumbotron-layer {
   background-color: rgba(0,0,0, 0.0);
 }
 #biden-jumbotron-layer {
