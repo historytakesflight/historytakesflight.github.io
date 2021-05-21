@@ -5,6 +5,12 @@
   background-position-x: center;
   background-position-y: 40%;
 }
+#jumbotron-atc {
+  background-image: url("/images/atc-tower.jpg");
+  background-position-x: center;
+  background-position-y: 40%;
+  background-size: cover;
+}
 #jumbotron-biden {
   background-image: url("/images/jan-rosolino.jpg");
   background-position: center;
@@ -20,6 +26,9 @@
   background-position-x: center;
   background-position-y: 60%;
   background-size: cover;
+}
+#atc-jumbotron-layer {
+  background-color: rgba(116, 255, 202, 0.6);
 }
 #cold-war-jumbotron-layer {
   background-color: rgba(0,0,0, 0.0);
