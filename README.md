@@ -4,6 +4,7 @@
 You've found the github repository for this website. If you were looking for the actual website, click <a href="https://historytakesflight.github.io/" target="_blank">here</a>. 
 
 Latest Articles:
+* [The deadliest aviation accident: the Tenerife Disaster](https://historytakesflight.github.io/safety/tenerife) - 17 June 2021
 * [Public relations in aviation and the design flaws of the DC-10](https://historytakesflight.github.io/safety/dc-10) - 14 June 2021
 * [Flight 93 and the power of information](https://historytakesflight.github.io/safety/flight-93) - 31 May 2021
 * [The spark that killed an entire mode of transportation](https://historytakesflight.github.io/safety/hindenburg) - 23 May 2021
