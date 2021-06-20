@@ -16,5 +16,5 @@
 * First World War feature - Fokker Dr.I, Public domain. 
 * "A Flying Guide For Nervous Travelers" feature: Photo by <a href="https://unsplash.com/@rparmly?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ross Parmly</a> on <a href="https://unsplash.com/s/photos/ariplane-wing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 * "The evolution air traffic control in the US" feature: Photo by <a href="https://unsplash.com/@lucaher?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luca Herrmann</a> on <a href="https://unsplash.com/s/photos/airport-tower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+* Tenerife disaster feature: Photo by Bob Russell, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)
   

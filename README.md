@@ -3,7 +3,8 @@
 ### Welcome!
 You've found the github repository for this website. If you were looking for the actual website, click <a href="https://historytakesflight.github.io/" target="_blank">here</a>. 
 
-Latest Articles:
+All Articles:
+* [Too much rudder - American Airlines flight 587](https://historytakesflight.github.io/safety/aa587) - 20 June 2021
 * [Explosion Over Scotland: the Lockerbie Bombing](https://historytakesflight.github.io/safety/lockerbie) - 18 June 2021
 * [The deadliest aviation accident: the Tenerife Disaster](https://historytakesflight.github.io/safety/tenerife) - 17 June 2021
 * [Public relations in aviation and the design flaws of the DC-10](https://historytakesflight.github.io/safety/dc-10) - 14 June 2021
